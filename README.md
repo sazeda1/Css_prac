@@ -12,3 +12,9 @@ To display black, set all color parameters to 0, like this: rgb(0, 0, 0).
 
 To display white, set all color parameters to 255, like this: rgb(255, 255, 255).
 
+#RGBA Value
+RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
+
+An RGBA color value is specified with:
+
+rgba(red, green, blue, alpha)
