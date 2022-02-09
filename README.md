@@ -14,7 +14,18 @@ To display white, set all color parameters to 255, like this: rgb(255, 255, 255)
 
 #RGBA Value
 RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
-
 An RGBA color value is specified with:
-
 rgba(red, green, blue, alpha)
+
+#HEX Value
+In CSS, a color can be specified using a hexadecimal value in the form:
+
+#rrggbb
+
+Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
+
+For example, #ff0000 is displayed as red, because red is set to its highest value (ff) and the others are set to the lowest value (00).
+
+To display black, set all values to 00, like this: #000000.
+
+To display white, set all values to ff, like this: #ffffff.  
