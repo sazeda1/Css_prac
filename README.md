@@ -37,3 +37,12 @@ Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 24
 Saturation is a percentage value, 0% means a shade of gray, and 100% is the full color.
 
 Lightness is also a percentage, 0% is black, 50% is neither light or dark, 100% is white
+
+When using the shorthand property the order of the property values is:
+background-color
+background-image
+background-repeat
+background-attachment
+background-position
+It does not matter if one of the property values is missing, as long as the other ones are in this order. Note that we do not use the background-attachment property in the examples above, as it does not have a value.
+
