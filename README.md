@@ -12,15 +12,15 @@ To display black, set all color parameters to 0, like this: rgb(0, 0, 0).
 
 To display white, set all color parameters to 255, like this: rgb(255, 255, 255).
 
-#RGBA Value
+# RGBA Value
 RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
 An RGBA color value is specified with:
 rgba(red, green, blue, alpha)
 
-#HEX Value
+# HEX Value
 In CSS, a color can be specified using a hexadecimal value in the form:
 
-#rrggbb
+# rrggbb
 
 Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
 
@@ -28,7 +28,7 @@ For example, #ff0000 is displayed as red, because red is set to its highest valu
 To display black, set all values to 00, like this: #000000.
 To display white, set all values to ff, like this: #ffffff.  
 
-##HSL Value
+## HSL Value
 In CSS, a color can be specified using hue, saturation, and lightness (HSL) in the form:
 hsl(hue, saturation, lightness)
 
@@ -46,7 +46,7 @@ background-attachment
 background-position
 It does not matter if one of the property values is missing, as long as the other ones are in this order. Note that we do not use the background-attachment property in the examples above, as it does not have a value.
 
-CSS Border Style
+## CSS Border Style
 The border-style property specifies what kind of border to display.
 
 The following values are allowed:
@@ -62,6 +62,28 @@ none - Defines no border
 hidden - Defines a hidden border
 The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
 
-CSS Border Width
+## CSS Border Width
 The border-width property specifies the width of the four borders.
 The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick:
+If the border-style property has four values:
+
+## border-style: dotted solid double dashed;
+top border is dotted
+right border is solid
+bottom border is double
+left border is dashed
+If the border-style property has three values:
+
+## border-style: dotted solid double;
+top border is dotted
+right and left borders are solid
+bottom border is double
+If the border-style property has two values:
+
+## border-style: dotted solid;
+top and bottom borders are dotted
+right and left borders are solid
+If the border-style property has one value:
+
+## border-style: dotted;
+all four borders are dotted
