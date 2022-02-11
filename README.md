@@ -128,3 +128,8 @@ left margin is 100px
 # Margin Collapse
 Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
 This does not happen on left and right margins! Only top and bottom margins!
+
+#CSS Padding
+The CSS padding properties are used to generate space around an element's content, inside of any defined borders.
+
+With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
