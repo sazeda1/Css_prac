@@ -108,3 +108,19 @@ length - specifies a margin in px, pt, cm, etc.
 % - specifies a margin in % of the width of the containing element
 inherit - specifies that the margin should be inherited from the parent element
 Tip: Negative values are allowed.
+
+# Margin - Shorthand Property
+To shorten the code, it is possible to specify all the margin properties in one property.
+The margin property is a shorthand property for the following individual margin properties:
+margin-top
+margin-right
+margin-bottom
+margin-left
+So, here is how it works:
+
+If the margin property has four values:
+margin: 25px 50px 75px 100px;
+top margin is 25px
+right margin is 50px
+bottom margin is 75px
+left margin is 100px
