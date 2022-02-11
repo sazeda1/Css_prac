@@ -124,3 +124,7 @@ top margin is 25px
 right margin is 50px
 bottom margin is 75px
 left margin is 100px
+
+# Margin Collapse
+Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
+This does not happen on left and right margins! Only top and bottom margins!
