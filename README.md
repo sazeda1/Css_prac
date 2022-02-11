@@ -145,3 +145,18 @@ length - specifies a padding in px, pt, cm, etc.
 % - specifies a padding in % of the width of the containing element
 inherit - specifies that the padding should be inherited from the parent element
 Note: Negative values are not allowed.
+
+# Padding - Shorthand Property
+To shorten the code, it is possible to specify all the padding properties in one property.
+The padding property is a shorthand property for the following individual padding properties:
+padding-top
+padding-right
+padding-bottom
+padding-left
+So, here is how it works:
+If the padding property has four values:
+padding: 25px 50px 75px 100px;
+top padding is 25px
+right padding is 50px
+bottom padding is 75px
+left padding is 100px
