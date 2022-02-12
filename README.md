@@ -160,3 +160,6 @@ top padding is 25px
 right padding is 50px
 bottom padding is 75px
 left padding is 100px
+
+# The CSS height and width properties are used to set the height and width of an element.
+# The CSS max-width property is used to set the maximum width of an element.
