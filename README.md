@@ -201,3 +201,11 @@ inset - Defines a 3D inset outline
 outset - Defines a 3D outset outline
 none - Defines no outline
 hidden - Defines a hidden outline
+
+# CSS Outline Width
+The outline-width property specifies the width of the outline, and can have one of the following values:
+
+thin (typically 1px)
+medium (typically 3px)
+thick (typically 5px)
+A specific size (in px, pt, cm, em, etc)
