@@ -220,3 +220,5 @@ HEX - specify a hex value, like "#ff0000"
 RGB - specify a RGB value, like "rgb(255,0,0)"
 HSL - specify a HSL value, like "hsl(0, 100%, 50%)"
 invert - performs a color inversion (which ensures that the outline is visible, regardless of color background)
+# CSS Outline Offset
+The outline-offset property adds space between an outline and the edge/border of an element. The space between an element and its outline is transparent.
