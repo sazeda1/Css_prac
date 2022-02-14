@@ -209,3 +209,14 @@ thin (typically 1px)
 medium (typically 3px)
 thick (typically 5px)
 A specific size (in px, pt, cm, em, etc)
+
+# CSS Outline Color
+The outline-color property is used to set the color of the outline.
+
+The color can be set by:
+
+name - specify a color name, like "red"
+HEX - specify a hex value, like "#ff0000"
+RGB - specify a RGB value, like "rgb(255,0,0)"
+HSL - specify a HSL value, like "hsl(0, 100%, 50%)"
+invert - performs a color inversion (which ensures that the outline is visible, regardless of color background)
