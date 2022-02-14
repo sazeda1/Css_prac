@@ -187,3 +187,17 @@ Padding - Clears an area around the content. The padding is transparent
 Border - A border that goes around the padding and content
 Margin - Clears an area outside the border. The margin is transparent
 The box model allows us to add a border around elements, and to define space between elements. 
+
+# CSS Outline Style
+The outline-style property specifies the style of the outline, and can have one of the following values:
+
+dotted - Defines a dotted outline
+dashed - Defines a dashed outline
+solid - Defines a solid outline
+double - Defines a double outline
+groove - Defines a 3D grooved outline
+ridge - Defines a 3D ridged outline
+inset - Defines a 3D inset outline
+outset - Defines a 3D outset outline
+none - Defines no outline
+hidden - Defines a hidden outline
