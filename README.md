@@ -236,4 +236,13 @@ text-decoration-line
 text-decoration-color
 text-decoration-style
 text-decoration-thickness
-text-decoration
+
+# text-decoration
+CSS Text Indentation, Letter Spacing, Line Height, Word Spacing, and White Space
+In this chapter you will learn about the following properties:
+
+text-indent
+letter-spacing
+line-height
+word-spacing
+white-space
