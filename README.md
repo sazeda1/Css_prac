@@ -222,3 +222,9 @@ HSL - specify a HSL value, like "hsl(0, 100%, 50%)"
 invert - performs a color inversion (which ensures that the outline is visible, regardless of color background)
 # CSS Outline Offset
 The outline-offset property adds space between an outline and the edge/border of an element. The space between an element and its outline is transparent.
+# Text Alignment
+The text-align property is used to set the horizontal alignment of a text.
+
+A text can be left or right aligned, centered, or justified.
+
+The following example shows center aligned, and left and right aligned text (left alignment is default if text direction is left-to-right, and right alignment is default if text direction is right-to-left):
