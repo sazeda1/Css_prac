@@ -246,3 +246,5 @@ letter-spacing
 line-height
 word-spacing
 white-space
+# Text Shadow
+The text-shadow property adds shadow to text.
