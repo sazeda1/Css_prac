@@ -228,3 +228,12 @@ The text-align property is used to set the horizontal alignment of a text.
 A text can be left or right aligned, centered, or justified.
 
 The following example shows center aligned, and left and right aligned text (left alignment is default if text direction is left-to-right, and right alignment is default if text direction is right-to-left):
+
+# CSS Text Decoration
+In this chapter you will learn about the following properties:
+
+text-decoration-line
+text-decoration-color
+text-decoration-style
+text-decoration-thickness
+text-decoration
