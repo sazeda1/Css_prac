@@ -275,3 +275,7 @@ outset - Defines a 3D outset border. The effect depends on the border-color valu
 none - Defines no border
 hidden - Defines a hidden border
 The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
+# CSS Border Width
+The border-width property specifies the width of the four borders.
+
+The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick:
