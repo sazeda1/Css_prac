@@ -248,3 +248,5 @@ word-spacing
 white-space
 # Text Shadow
 The text-shadow property adds shadow to text.
+# CSS background-repeat
+By default, the background-image property repeats an image both horizontally and vertically.
