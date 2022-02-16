@@ -301,3 +301,13 @@ If the border-style property has one value:
 
 border-style: dotted;
 all four borders are dotted
+CSS Border - Shorthand Property
+Like you saw in the previous page, there are many properties to consider when dealing with borders.
+
+## To shorten the code, it is also possible to specify all the individual border properties in one property.
+
+The border property is a shorthand property for the following individual border properties:
+
+border-width
+border-style (required)
+border-color
