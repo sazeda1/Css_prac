@@ -310,4 +310,6 @@ The border property is a shorthand property for the following individual border 
 
 border-width
 border-style (required)
-border-color
+# border-color
+CSS background - Shorthand property
+To shorten the code, it is also possible to specify all the background properties in one single property. This is called a shorthand property.
