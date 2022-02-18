@@ -323,3 +323,5 @@ background-position
 It does not matter if one of the property values is missing, as long as the other ones are in this order. Note that we do not use the background-attachment property in the examples above, as it does not have a value.
 # CSS background-attachment
 The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page):
+#CSS background - Shorthand property
+To shorten the code, it is also possible to specify all the background properties in one single property. This is called a shorthand property.
