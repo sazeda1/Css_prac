@@ -327,5 +327,6 @@ The background-attachment property specifies whether the background image should
 To shorten the code, it is also possible to specify all the background properties in one single property. This is called a shorthand property.
 # CSS Border Width
 The border-width property specifies the width of the four borders.
-
 The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick
+# Specific Side Widths
+The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border)
