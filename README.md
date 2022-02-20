@@ -325,3 +325,7 @@ It does not matter if one of the property values is missing, as long as the othe
 The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page):
 #CSS background - Shorthand property
 To shorten the code, it is also possible to specify all the background properties in one single property. This is called a shorthand property.
+# CSS Border Width
+The border-width property specifies the width of the four borders.
+
+The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick
