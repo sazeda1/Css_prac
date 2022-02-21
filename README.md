@@ -330,3 +330,7 @@ The border-width property specifies the width of the four borders.
 The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick
 # Specific Side Widths
 The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border)
+# CSS Padding
+The CSS padding properties are used to generate space around an element's content, inside of any defined borders.
+
+With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
