@@ -347,3 +347,7 @@ length - specifies a padding in px, pt, cm, etc.
 % - specifies a padding in % of the width of the containing element
 inherit - specifies that the padding should be inherited from the parent element
 Note: Negative values are not allowed.
+# CSS Setting height and width
+The height and width properties are used to set the height and width of an element.
+
+The height and width properties do not include padding, borders, or margins. It sets the height/width of the area inside the padding, border, and margin of the element.
