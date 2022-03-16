@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>position</title>
+    <style>
+ .container {
+
+position: relative;
+
+}
+
+.blackbox
+{
+position:relative;
+border:3px solid black;
+margin:30px;
+height:200px;
+
+
+}
+.graybox
+{
+position:absolute;
+border:3px solid black;
+height:100px;
+width:70%;
+top:80px;
+left:100px;
+z-index:1;
+background-color:lightgray;
+}
+
+.greenbox
+{
+position:absolute;
+border:3px solid black;
+height:70px;
+width:50%;
+top:45px;
+left:250px;
+z-index:3;
+background:lightgreen;
+}
+    </style>
+</head>
+<body>
+
+<div class="container">This is container
+    <div class="blackbox">This is blackbox</div>
+    <div class="graybox">This is graybox</div>
+    <div class="greenbox">This is greenbox</div>
+    
+
+
+</div>
+    
+</body>
+</html>
